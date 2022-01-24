@@ -1,0 +1,1 @@
+// The task control block (TCB) and the task's stack space are both allocated from the FreeRTOS heap as defined by configTOTAL_HEAP_SIZE (and the specific heapX.c file included in the build).  There is nothing in FreeRTOS that limits the number of created tasks except the available FreeRTOS heap space.
