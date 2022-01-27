@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/coading/esp/RTOS/Assignments/question1/build/CMakeFiles/bootloader
+/home/coading/esp/RTOS/Assignments/question1/build/CMakeFiles/bootloader.rule
+/home/coading/esp/RTOS/Assignments/question1/build/CMakeFiles/bootloader-complete.rule
+/home/coading/esp/RTOS/Assignments/question1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/coading/esp/RTOS/Assignments/question1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/coading/esp/RTOS/Assignments/question1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/coading/esp/RTOS/Assignments/question1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/coading/esp/RTOS/Assignments/question1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/coading/esp/RTOS/Assignments/question1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/coading/esp/RTOS/Assignments/question1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
